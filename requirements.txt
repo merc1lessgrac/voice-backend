@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+joblib
+librosa
+praat-parselmouth
+opensmile
+scikit-learn
+pandas
+numpy
+openpyxl
+requests
